@@ -15,7 +15,7 @@ Il dataset utilizzato è il **Real estate valuation data set** reso disponibile 
 - **X4**: Numero di minimarket nelle vicinanze
 - **X5**: Latitudine
 - **X6**: Longitudine
-- **Y**: Prezzo al metro quadro dell’immobile (NT$/m²)
+- **Y**: Prezzo al metro quadro dell’immobile
 
 ## 🧠 Modelli
 
