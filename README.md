@@ -41,7 +41,7 @@ pip install streamlit==1.44.1 pandas==2.2.3 numpy==2.2.5 scikit-learn==1.6.1 uci
 
 ### 3. Avvia la web app
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## 🎨 Visualizzazione su Tableau
