@@ -32,12 +32,16 @@ Comandi per macOS
 ### 0. Creazione ambiente virtuale
 ```bash
 python3 -m venv .venv
+```
+```bash
 source .venv/bin/activate
 ```
 
 ### 1. Clona il repository
 ```bash
 git clone https://github.com/g-parisi20/Sistemi_Informaitivi.git
+```
+```bash
 cd Sistemi_Informaitivi
 ```
 
