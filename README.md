@@ -45,4 +45,4 @@ streamlit run main.py
 ```
 
 ## 🎨 Visualizzazione su Tableau
-🔗 [Visualizzazione dataset](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set)
+🔗 [Visualizzazione dataset](https://public.tableau.com/shared/FDWXPNM7B?:display_count=n&:origin=viz_share_link)
