@@ -41,7 +41,7 @@ if scelta == "Modello 1 (latitudine e longitudine)":
     else:
         #Stima
         prezzo = modello1.predict(X_input)[0]
-        st.success(f"Prezzo stimato al mq: € {round(float(prezzo),2)}")
+        st.success(f"Prezzo stimato al mq: {round(float(prezzo),2)}")
 
 else:
     #Input
@@ -52,4 +52,4 @@ else:
 
     #Stima
     prezzo = modello2.predict(X_input)[0]
-    st.success(f"Prezzo stimato al mq: € {round(float(prezzo),2)}")
+    st.success(f"Prezzo stimato al mq: {round(float(prezzo),2)}")
