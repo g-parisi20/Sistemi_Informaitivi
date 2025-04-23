@@ -56,4 +56,4 @@ streamlit run main.py
 ```
 
 ## 🎨 Visualizzazione su Tableau
-🔗 [Visualizzazione dataset](https://public.tableau.com/shared/FDWXPNM7B?:display_count=n&:origin=viz_share_link)
+Link alla mappa interattiva dei prezzi: 🔗 [Visualizzazione dataset](https://public.tableau.com/shared/FDWXPNM7B?:display_count=n&:origin=viz_share_link)
