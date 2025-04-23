@@ -27,6 +27,13 @@ Ci sono due modelli basati sui seguenti regressori:
 
 
 ## 🚀 Eseguire l'app
+Comandi per macOS
+
+### 0. Creazione ambiente virtuale
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
 
 ### 1. Clona il repository
 ```bash
