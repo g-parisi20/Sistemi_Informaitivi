@@ -19,7 +19,7 @@ Il dataset utilizzato è il **Real estate valuation data set** reso disponibile 
 
 ## 🧠 Modelli
 
-Ci sono due modelli basati sui seguenti regressori:
+Ci sono due modelli lineari basati sui seguenti regressori:
 
 1. **Latitudine e Longitudine** → il modello predice il prezzo basandosi sulla posizione geografica.
    > ⚠️ Qui i valori inseriti devono rientrare nei limiti del dataset.
@@ -27,7 +27,7 @@ Ci sono due modelli basati sui seguenti regressori:
 
 
 ## 🚀 Eseguire l'app
-Comandi per macOS
+Comandi per macOS con python3 installato
 
 ### 0. Creazione ambiente virtuale
 ```bash
